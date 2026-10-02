@@ -82,8 +82,8 @@ the dead protect the living. | Socializer:Acting for other players. |
 ## Level blockouts
 | Level | Screenshot | Its idea | Wayfinding tool |
 |---|---|---|---|
-| Level01 | <img src="Docs/levels/level01.jpeg" width="320"> | | |
-| Level02 | <img src="Docs/levels/level02.jpeg" width="320"> | | |
-| Level03 | <img src="Docs/levels/level03.jpeg" width="320"> | | |
-| Level04 | <img src="Docs/levels/level04.jpeg" width="320"> | | |
-| Level05 | <img src="Docs/levels/level05.jpeg" width="320"> | | |
+| Level01 | <img src="Docs/levels/level01.png" width="320"> | | |
+| Level02 | <img src="Docs/levels/level02.png" width="320"> | | |
+| Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
+| Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
+| Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
