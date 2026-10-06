@@ -45,7 +45,7 @@ the dead protect the living. | Socializer:Acting for other players. |
 ## Game 2 · Candy Crush Saga
 - **Store link:** [Google Play link](https://play.google.com/store/apps/details?id=com.king.candycrushsaga)
 - **Genre:** Puzzle (match-3), single player
-- **I played:** [X minutes, at least 30]
+- **I played:** 30-35 minutes
 - **Video (optional):** [link]
 
 <p>
