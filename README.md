@@ -84,6 +84,6 @@ the dead protect the living. | Socializer:Acting for other players. |
 |---|---|---|---|
 | Level01 | <img src="Docs/levels/level01.png" width="320"> |Track Navigation & Layout | Different hurdles and a flag at the final mark|
 | Level02 | <img src="Docs/levels/level02.png" width="320"> |Track Navigation & Layout| Cars as hurdles and a broken road for added dificulty|
-| Level03 | <img src="Docs/levels/level03.png" width="320"> | | |
-| Level04 | <img src="Docs/levels/level04.png" width="320"> | | |
-| Level05 | <img src="Docs/levels/level05.png" width="320"> | | |
+| Level03 | <img src="Docs/levels/level03.png" width="320"> | Timing & Reflexes| the track curves and narrows, and obstacles appear in quick succession. dirt road|
+| Level04 | <img src="Docs/levels/level04.png" width="320"> | Timing & Reflexes| route is full of hazards and with elevation and jumps |
+| Level05 | <img src="Docs/levels/level05.png" width="320"> |Final Challenge | split paths where the shorter route is full of hazards and transparent road to make it difficult|
